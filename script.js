@@ -20,7 +20,7 @@ longoBt.addEventListener('click', () => {
 
 
 
-/*Função (contexto) */ 
+/*Função (contexto)*/ 
 function alterarContexto(contexto) {
     html.setAttribute('data-contexto', contexto)
     banner.setAttribute('src', `/imagens/${contexto}.png`)
