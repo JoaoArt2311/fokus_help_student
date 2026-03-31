@@ -1,5 +1,5 @@
 # Fokus Help
 Este e um site para quem quer se dedicar mais aos estudos, ajudando a melhorar seu tempo
 
-<h1 align="center"> ME DESENVOLVIMENTO </h1>
+<h1 align="center"> EM DESENVOLVIMENTO </h1>
  
